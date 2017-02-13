@@ -10,6 +10,7 @@ SITEURL = 'https://sitskin.github.io'
 SITE_DESCRIPTION = 'I\'m a recent graduate of Baylor University in Computer Science.  Although I\'ve just graduated, I\'m passionate about my field.  Living in Austin, Tx means that I\'m in close proximity to a plethera of established and up-and-coming software companies.'
 YEAR = date.today().year
 EMAIL = 'sitskin@gmail.com'
+SIDEBAR_DIGEST = 'I\'m a recent graduate of Baylor University in Computer Science.  Although I\'ve just graduated, I\'m passionate about my field.  Living in Austin, Tx means that I\'m in close proximity to a plethera of established and up-and-coming software companies.'
 
 PATH = 'content'
 
@@ -44,7 +45,7 @@ STATIC_PATHS = ['images',]
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 TYPOGRAPHY = True
-THEME = "../pelican-themes/backdrop"
+THEME = "../pelican-themes/notebook"
 
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = [
