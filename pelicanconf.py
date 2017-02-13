@@ -9,7 +9,7 @@ SITESUBTITLE = 'Here I blog about stuff that I find interresting'
 SITEURL = 'https://sitskin.github.io'
 SITE_DESCRIPTION = 'I\'m a recent graduate of Baylor University in Computer Science.  Although I\'ve just graduated, I\'m passionate about my field.  Living in Austin, Tx means that I\'m in close proximity to a plethera of established and up-and-coming software companies.'
 YEAR = date.today().year
-EMAIL = sitskin@gmail.com
+EMAIL = 'sitskin@gmail.com'
 
 PATH = 'content'
 
