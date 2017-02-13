@@ -44,7 +44,7 @@ STATIC_PATHS = ['images',]
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 TYPOGRAPHY = True
-THEME = "..\pelican-themes\backdrop"
+THEME = "../pelican-themes/backdrop"
 
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = [
