@@ -41,6 +41,7 @@ DEFAULT_PAGINATION = 10
 PAGINATED_DIRECT_TEMPLATES = ('categories', 'archives')
 
 STATIC_PATHS = ['images',]
+AVATAR = 'images/meAndLexi.jpg'
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
