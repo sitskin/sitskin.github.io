@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Itskin Blog - first</title><link href="https://sitskin.github.io/" rel="alternate"></link><link href="https://sitskin.github.io/feeds/first.atom.xml" rel="self"></link><id>https://sitskin.github.io/</id><updated>2017-02-13T00:00:00-06:00</updated><entry><title>My First Post</title><link href="https://sitskin.github.io/2017/02/13/my-first-post/" rel="alternate"></link><published>2017-02-13T00:00:00-06:00</published><updated>2017-02-13T00:00:00-06:00</updated><author><name>Sam Itskin</name></author><id>tag:sitskin.github.io,2017-02-13:/2017/02/13/my-first-post/</id><summary type="html">&lt;p&gt;This is a test to see if I can get something working&lt;/p&gt;</summary><content type="html">&lt;h1&gt;First Post&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Pelican  is not as easy as people make it out to be.
+If you want the website on &lt;em&gt;github.io&lt;/em&gt; and you also want the source code to be up there as well you need to do some interesting workarounds.&lt;br&gt;
+And then if you don't have access to a way to run make then you need to recreate them as batch files.&lt;br&gt;
+It is all quite confusing but hopefully I will get it to work eventually.&lt;/p&gt;</content><category term="first"></category></entry></feed>
